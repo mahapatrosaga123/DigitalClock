@@ -1,0 +1,308 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation
+vAlarmEnable
+Z1 !s110 1685703697
+!i10b 1
+!s100 0_T7G@?Xz2mYmmC@D7Jz^1
+IY6DaUPboRaB2lF71[gOXB0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1685701538
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmEnable.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmEnable.v
+L0 16
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1685703697.000000
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmEnable.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmEnable.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23
+Z8 tCvgOpt 0
+n@alarm@enable
+vAlarmSet
+R1
+!i10b 1
+!s100 1C4]WZ>fZQaSTnXoVW]mX1
+I3a^5=Od>RRYOhnBM^>Qfn3
+R2
+R0
+R3
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmSet.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmSet.v
+L0 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmSet.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/AlarmSet.v|
+!i113 1
+R6
+R7
+R8
+n@alarm@set
+vDigitalClock
+R1
+!i10b 1
+!s100 VDJ9H>I6C?5SUgn5^T@z=2
+I0=H9:KlKYmjfje`XX4?m73
+R2
+R0
+R3
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DigitalClock.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DigitalClock.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DigitalClock.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DigitalClock.v|
+!i113 1
+R6
+R7
+R8
+n@digital@clock
+vDisplaySegment
+R1
+!i10b 1
+!s100 4JkLBAgbazFF<<=;AlT6U2
+I115H9ZOCUcU1MnN<]JD4E3
+R2
+R0
+w1683597830
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DisplaySegment.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DisplaySegment.v
+L0 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DisplaySegment.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/DisplaySegment.v|
+!i113 1
+R6
+R7
+R8
+n@display@segment
+vhourlychime
+R1
+!i10b 1
+!s100 COjEVMW]dU:H_lWNj?77o1
+I2@ARLHC=ki=mY:gcHNg5I3
+R2
+R0
+R3
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/hourlychime.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/hourlychime.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/hourlychime.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/hourlychime.v|
+!i113 1
+R6
+R7
+R8
+vLT24Display
+R1
+!i10b 1
+!s100 g0Ml0H`ILV7gf4e]j455d3
+Ig4=:^4:06HQhdTnVHR>ZZ0
+R2
+R0
+Z9 w1683600586
+Z10 8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Display.v
+Z11 FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Display.v
+L0 86
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Display.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Display.v|
+!i113 1
+R6
+R7
+R8
+n@l@t24@display
+vLT24DisplayInterface
+R1
+!i10b 1
+!s100 S52Fa_]jASRIg5HK3cSR53
+I:WeKY81nJ]T4XL@FdSnDi2
+R2
+R0
+R9
+R10
+R11
+L0 409
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7
+R8
+n@l@t24@display@interface
+vLT24FunctionalModel
+R1
+!i10b 1
+!s100 nT@I:=O^JHXgZ]h6H>>mV3
+Id8oY[]C22]h=zZmaVk^?h3
+R2
+R0
+w1682258340
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24FunctionalModel.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24FunctionalModel.v
+Z14 L0 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24FunctionalModel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24FunctionalModel.v|
+!i113 1
+R6
+Z15 !s92 -vlog01compat -work work +incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation
+R8
+n@l@t24@functional@model
+vLT24InitialData
+R1
+!i10b 1
+!s100 [PghI>V`k5H`AnPf[RPc_1
+IzcdK5`ZaBLO3<i:HRk0I83
+R2
+R0
+R9
+R10
+R11
+L0 523
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7
+R8
+n@l@t24@initial@data
+vLT24Top
+R1
+!i10b 1
+!s100 N?<_[zKgk_bGQdhez97Kg1
+I^UKU?LB86M[oUemzR]M1T2
+R2
+R0
+w1685639633
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Top.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Top.v
+R14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/LT24Top.v|
+!i113 1
+R6
+R7
+R8
+n@l@t24@top
+vLT24Top_tb
+R1
+!i10b 1
+!s100 7HiKTS2M`if]<S1GGKj>_1
+I<8jCAD>]9R`[6<8Ojl[KY2
+R2
+R0
+w1685638667
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24Top_tb.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24Top_tb.v
+L0 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24Top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/simulation/LT24Top_tb.v|
+!i113 1
+R6
+R15
+R8
+n@l@t24@top_tb
+vRealTimeClock
+R1
+!i10b 1
+!s100 dgzliNaI^_>2[X2[]F;Sl1
+IhJUhZz<S2bLSVN<R>m;QY3
+R2
+R0
+w1685450154
+8C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/RealTimeClock.v
+FC:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/RealTimeClock.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/RealTimeClock.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23|C:/Users/mahap/workspace/ELEC5566M-Mini-Project-Group-23/RealTimeClock.v|
+!i113 1
+R6
+R7
+R8
+n@real@time@clock
+vResetSynchroniser
+R1
+!i10b 1
+!s100 g4:GWhz>Y3NIW7bPP@X5E0
+I^1LUBWn_P[e6;3hS3dJZW3
+R2
+R0
+R9
+R10
+R11
+L0 493
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7
+R8
+n@reset@synchroniser
